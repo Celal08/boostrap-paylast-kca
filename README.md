@@ -6,7 +6,7 @@
 
 Udemig- Mehmet Can Seyhan Katkılarıyla
 
-# Clone the repository: https://lnkd.in/dUrTFST5
+# Clone the repository: [https://lnkd.in/dUrTFST5](https://github.com/Celal08/boostrap-paylast-kca/blob/main/README.md)
 
 # Technologies
 
