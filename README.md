@@ -13,3 +13,7 @@ Udemig- Mehmet Can Seyhan Katkılarıyla
 # BS
 # HTML
 # CSS
+
+#
+EKRAN GÖRÜNTÜSÜ
+![paylas-ezgif com-video-to-gif-converter (1)](https://github.com/Celal08/boostrap-paylast-kca/assets/155475492/d82a224d-a631-4cbd-8a09-adee01c4e37f)
